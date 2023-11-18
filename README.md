@@ -1,4 +1,4 @@
-# Fibonacci-UTS
+# UTS SUSULAN PEMROGRAMAN MOBILE
 
 ```
 Nama  : Aan Fadillah Putra
@@ -158,8 +158,9 @@ public class fibonacci extends AppCompatActivity {
 }
 ```
 
-## 3. Hasil 
+## 3. Hasil output
 
-![P1](foto/P1.jpg)
+![aan 1](https://github.com/aanfadillah/UTS-Susulan-Pemrograman-Mobile/assets/115763475/15abe32e-025f-4ada-9634-7e474f1b2603)
 
-![P2](foto/P2.jpg)
+
+![aan 2](https://github.com/aanfadillah/UTS-Susulan-Pemrograman-Mobile/assets/115763475/ae8742f6-9734-469e-b2ea-8ea62815d1b2)
